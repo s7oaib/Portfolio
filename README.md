@@ -1,97 +1,173 @@
+<div align="center">
+
 # Hi, I'm Shoaib Jamadar 👋
 
-**AI & ML Student · Computer Vision · Full-Stack Systems**
+**AI & ML Student · Computer Vision · Multi-Agent Systems · Full-Stack**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-s7oaib.github.io/Portfolio-black?style=flat&logo=google-chrome&logoColor=white)](https://s7oaib.github.io/Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shoaib--jamadar77-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoaib-jamadar77/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:s7oaibjamadar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Portfolio-s7oaib.vercel.app-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-s7oaib.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-shoaib--jamadar77-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoaib-jamadar77/)
+[![Email](https://img.shields.io/badge/✉️_Email-s7oaibjamadar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s7oaibjamadar@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-s7oaib-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s7oaib)
 
----
-
-I'm an AI & Machine Learning student from Bengaluru, India, with hands-on experience building computer vision, multi-agent AI, and full-stack systems.
-
-I enjoy building software that detects, learns, and adapts — from real-time crime detection to gesture-controlled interfaces.
-
-Currently building **SafeVision**, a real-time crime detection system using YOLOv11, and **P.H.O.E.N.I.X.**, a multi-agent AI desktop assistant with a 4-level hierarchy.
-
-[![Bengaluru, India](https://img.shields.io/badge/📍%20Bengaluru,%20India-161B22?style=flat&labelColor=161B22&color=30363D)](https://camo.githubusercontent.com/88edb634b4aff34f73b0c5404b243880056fd8abda3311e89f9ae5d5dc05e149/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f25463025394625393325384425323042656e67616c7572752c253230496e6469612d3136314232323f7374796c653d666c6174266c6162656c436f6c6f723d31363142323226636f6c6f723d333033363344) [![Open to opportunities](https://img.shields.io/badge/🔍%20Open%20to%20internships%20%26%20research-161B22?style=flat&labelColor=161B22&color=238636)](https://camo.githubusercontent.com/4cb03aa57fdc47f71e1513f45c1bf66b4676c7d0ed8f7e954e9ca9fb0b265f17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2545322539372538462532304f70656e253230746f253230696e7465726e736869707325323025323625323072657365617263682d3136314232323f7374796c653d666c6174266c6162656c436f6c6f723d31363142323226636f6c6f723d323338363336) [![AIML Student](https://img.shields.io/badge/🎓%20AIML%20Student-161B22?style=flat&labelColor=161B22&color=30363D)](https://camo.githubusercontent.com/050febfc1b7ea468ec42b2e3b7bf0d8512427a41a71d46869e7b57a32c855c6e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f254630253946253845253933253230435325323053747564656e742d3136314232323f7374796c653d666c6174266c6162656c436f6c6f723d31363142323226636f6c6f723d333033363344)
+</div>
 
 ---
 
-## Pinned Repositories
+## 🧑‍💻 About Me
 
-### 🛡️ [SafeVision](https://github.com/s7oaib/SafeVision)
+I'm an **AI & Machine Learning student** from **Bengaluru, India** with hands-on experience building **computer vision**, **multi-agent AI**, and **full-stack systems**. Skilled in Python, TensorFlow, PyTorch, OpenCV, and React/Node.js, with proven results shipping production-style projects.
 
-Real-time AI-powered crime detection system with fine-tuned YOLOv11, classifying violence and weapons from CCTV feeds at 30 FPS.
+I enjoy building software that **detects, learns, and adapts** — from real-time crime detection running at 30 FPS to gesture-controlled drawing interfaces that require no physical input device.
 
-[GitHub](https://github.com/s7oaib/SafeVision)
+Currently building **SafeVision** (real-time crime detection with YOLOv11) and **P.H.O.E.N.I.X.** (multi-agent AI desktop assistant with 4-level hierarchy).
 
-### ✋ [Air Canvas](https://github.com/s7oaib/Air-Canvas)
+<div align="center">
 
-Gesture-controlled drawing application using MediaPipe hand tracking — draw, erase, and navigate via webcam with no physical input device.
+[![Bengaluru, India](https://img.shields.io/badge/📍_Bengaluru,_India-161B22?style=flat-square&labelColor=161B22&color=30363D)](https://github.com/s7oaib)
+[![Open to internships](https://img.shields.io/badge/🔍_Open_to_Internships-161B22?style=flat-square&labelColor=161B22&color=238636)](mailto:s7oaibjamadar@gmail.com)
+[![AIML Student](https://img.shields.io/badge/🎓_B.E._AIML-161B22?style=flat-square&labelColor=161B22&color=30363D)](https://github.com/s7oaib)
 
-[GitHub](https://github.com/s7oaib/Air-Canvas)
-
-### 🤖 [P.H.O.E.N.I.X.](https://github.com/s7oaib/PHOENIX)
-
-Multi-agent AI desktop assistant with a 4-level hierarchy, Mixture-of-Experts routing, and ChromaDB-backed long-term memory.
-
-[GitHub](https://github.com/s7oaib/PHOENIX)
-
-### 🌐 [Portfolio](https://github.com/s7oaib/Portfolio)
-
-Personal portfolio site for projects, skills, and experience.
-
-[GitHub](https://github.com/s7oaib/Portfolio)
+</div>
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### Languages
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-[![Java](https://img.shields.io/badge/Java-F89820?style=flat&logo=openjdk&logoColor=white)](https://img.shields.io/badge/Java-F89820?style=flat&logo=openjdk&logoColor=white)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### AI / Machine Learning
-
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-[![YOLO](https://img.shields.io/badge/YOLOv8/YOLOv11-00D564?style=flat&logo=yolo&logoColor=white)](https://img.shields.io/badge/YOLOv8/YOLOv11-00D564?style=flat&logo=yolo&logoColor=white)
-[![MediaPipe](https://img.shields.io/badge/MediaPipe-007ACC?style=flat&logo=google&logoColor=white)](https://img.shields.io/badge/MediaPipe-007ACC?style=flat&logo=google&logoColor=white)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8/YOLOv11-00D564?style=flat-square&logo=yolo&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-007ACC?style=flat-square&logo=google&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ### Web Development
-
-[![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
 ### Tools & Infrastructure
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## What I'm thinking about
-
-- 🔧 **Building** — Computer vision systems and multi-agent AI architectures.
-- 🧠 **Exploring** — Federated learning, real-time detection, and context-aware AI.
-- 🎓 **Learning** — Quantum computing, advanced ML pipelines, and production-grade systems.
+</div>
 
 ---
 
-Building in public · Always learning · Always shipping
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛡️ SafeVision
+**AI-Powered Real-Time Crime Detection**
+
+Built a real-time crime detection system with fine-tuned **YOLOv11**, classifying violence and weapons from CCTV feeds at **30 FPS** across three threat severity levels.
+
+Integrated **Federated Learning** with Differential Privacy (Flower, Opacus) for distributed model training.
+
+`Python` `YOLOv11` `OpenCV` `FastAPI` `Federated Learning`
+
+</td>
+<td width="50%">
+
+### ✋ Air Canvas
+**Gesture-Based Drawing Application**
+
+Developed a real-time gesture-controlled canvas using **MediaPipe** hand tracking — draw, erase, and navigate via webcam with no physical input device.
+
+Implemented multi-brush sizing, undo/redo, auto-save, PNG export, and live picture-in-picture camera feed.
+
+`Python` `OpenCV` `MediaPipe` `HTML5 Canvas`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 P.H.O.E.N.I.X.
+**Multi-Agent AI Desktop Assistant**
+
+Architecting a voice-activated AI assistant with a **4-level multi-agent hierarchy** (PHOENIX orchestrator → specialist agents → dynamic sub-agents).
+
+Designing competitive planning via **Mixture-of-Experts** routing, Docker-sandboxed execution, and **ChromaDB**-backed long-term memory.
+
+`Python` `LangGraph` `FastAPI` `ChromaDB` `Docker`
+
+</td>
+<td width="50%">
+
+### 🌐 Portfolio
+**Personal Portfolio Site**
+
+Built with **React**, **TypeScript**, and **Vite** — a clean, responsive portfolio showcasing projects, skills, and experience.
+
+Features GitHub API integration for live repository data, glassmorphism UI, and dark/light theme support.
+
+`React` `TypeScript` `Vite` `CSS3`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s7oaib&show_icons=true&theme=radical&hide_border=true)](https://github.com/s7oaib)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s7oaib&layout=compact&theme=radical&hide_border=true)](https://github.com/s7oaib)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **1st Place** — Nexora Hackathon, HKBK College of Engineering (Dept. of AIML)
+- 📜 **Google Cloud Generative AI Academy** — Trained
+- 📜 **IEEE Quantum Computing Lecture Series** — Completed
+- 📜 **Cybersecurity 3.0** — Fortinet Certified
+- 📜 **MongoDB 4.0 Developer's Guide** — Infosys
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoaib-jamadar77/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s7oaib)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s7oaibjamadar@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-s7oaib.vercel.app)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=s7oaib&color=blueviolet&style=flat-square&label=Profile+Views)
+
+**Building intelligent systems · Always learning · Always shipping**
+
+</div>
