@@ -114,6 +114,20 @@ Features GitHub API integration for live repository data, glassmorphism UI, and 
 `React` `TypeScript` `Vite` `CSS3`
 
 </td>
+<td width="50%">
+
+### 📄 Resume  
+**Professional Resume & CV**
+
+AI & Machine Learning student with experience in computer vision, multi-agent AI, and full-stack systems.  
+
+Quantum Computing Research Intern at M R A Gurus. 1st Place at Nexora Hackathon. Google Cloud Generative AI Academy trained.  
+
+`Python` `TensorFlow` `PyTorch` `OpenCV` `React`
+
+[![Download Resume](https://img.shields.io/badge/⬇️_Download_PDF-EA4335?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/s7oaib/Portfolio/raw/main/Shoaib%20Jamadar%20Resume.pdf)
+
+</td>
 </tr>
 </table>
 
