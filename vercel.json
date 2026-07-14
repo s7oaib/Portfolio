@@ -1,5 +1,4 @@
 {
-  "name": "portfolio-s7oaib",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "framework": "vite"
