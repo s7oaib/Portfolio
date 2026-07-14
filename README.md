@@ -4,7 +4,7 @@
 
 **AI & ML Student · Computer Vision · Multi-Agent Systems · Full-Stack**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Portfolio-s7oaib.vercel.app-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-s7oaib.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-s7oaib.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-shoaib--jamadar77-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoaib-jamadar77/)
 [![Email](https://img.shields.io/badge/✉️_Email-s7oaibjamadar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s7oaibjamadar@gmail.com)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-s7oaib-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s7oaib)
@@ -77,50 +77,39 @@ Currently building **SafeVision** (real-time crime detection with YOLOv11) and *
 <tr>
 <td width="50%">
 
-### 🛡️ SafeVision
+### 🛡️ SafeVision  
 **AI-Powered Real-Time Crime Detection**
 
-Built a real-time crime detection system with fine-tuned **YOLOv11**, classifying violence and weapons from CCTV feeds at **30 FPS** across three threat severity levels.
+Built a real-time crime detection system with fine-tuned **YOLOv11**, classifying violence and weapons from CCTV feeds at **30 FPS** across three threat severity levels.  
 
-Integrated **Federated Learning** with Differential Privacy (Flower, Opacus) for distributed model training.
+Integrated **Federated Learning** with Differential Privacy (Flower, Opacus) for distributed model training.  
 
 `Python` `YOLOv11` `OpenCV` `FastAPI` `Federated Learning`
 
 </td>
 <td width="50%">
 
-### ✋ Air Canvas
-**Gesture-Based Drawing Application**
-
-Developed a real-time gesture-controlled canvas using **MediaPipe** hand tracking — draw, erase, and navigate via webcam with no physical input device.
-
-Implemented multi-brush sizing, undo/redo, auto-save, PNG export, and live picture-in-picture camera feed.
-
-`Python` `OpenCV` `MediaPipe` `HTML5 Canvas`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 P.H.O.E.N.I.X.
+### 🤖 P.H.O.E.N.I.X.  
 **Multi-Agent AI Desktop Assistant**
 
-Architecting a voice-activated AI assistant with a **4-level multi-agent hierarchy** (PHOENIX orchestrator → specialist agents → dynamic sub-agents).
+Architecting a voice-activated AI assistant with a **4-level multi-agent hierarchy** (PHOENIX orchestrator → specialist agents → dynamic sub-agents).  
 
-Designing competitive planning via **Mixture-of-Experts** routing, Docker-sandboxed execution, and **ChromaDB**-backed long-term memory.
+Designing competitive planning via **Mixture-of-Experts** routing, Docker-sandboxed execution, and **ChromaDB**-backed long-term memory.  
 
 `Python` `LangGraph` `FastAPI` `ChromaDB` `Docker`
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
-### 🌐 Portfolio
+### 🌐 Portfolio  
 **Personal Portfolio Site**
 
-Built with **React**, **TypeScript**, and **Vite** — a clean, responsive portfolio showcasing projects, skills, and experience.
+Built with **React**, **TypeScript**, and **Vite** — a clean, responsive portfolio showcasing projects, skills, and experience.  
 
-Features GitHub API integration for live repository data, glassmorphism UI, and dark/light theme support.
+Features GitHub API integration for live repository data, glassmorphism UI, and dark/light theme support.  
 
 `React` `TypeScript` `Vite` `CSS3`
 
@@ -128,18 +117,6 @@ Features GitHub API integration for live repository data, glassmorphism UI, and 
 </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=s7oaib&show_icons=true&theme=radical&hide_border=true)](https://github.com/s7oaib)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=s7oaib&layout=compact&theme=radical&hide_border=true)](https://github.com/s7oaib)
-
-</div>
-
----
 
 ## 🏆 Achievements
 
@@ -167,7 +144,5 @@ Features GitHub API integration for live repository data, glassmorphism UI, and 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=s7oaib&color=blueviolet&style=flat-square&label=Profile+Views)
-
-**Building intelligent systems · Always learning · Always shipping**
 
 </div>
