@@ -4,10 +4,10 @@
 
 **AI & ML Student · Computer Vision · Multi-Agent Systems · Full-Stack**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-s7oaib.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-shoaib--jamadar77-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoaib-jamadar77/)
-[![Email](https://img.shields.io/badge/✉️_Email-s7oaibjamadar@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s7oaibjamadar@gmail.com)
-[![GitHub](https://img.shields.io/badge/🐙_GitHub-s7oaib-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s7oaib)
+[![Portfolio](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-s7oaib.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoaib-jamadar77/)
+[![Email](https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:s7oaibjamadar@gmail.com)
+[![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s7oaib)
 
 </div>
 
@@ -19,7 +19,7 @@ I'm an **AI & Machine Learning student** from **Bengaluru, India** with hands-on
 
 I enjoy building software that **detects, learns, and adapts** — from real-time crime detection running at 30 FPS to gesture-controlled drawing interfaces that require no physical input device.
 
-Currently building **SafeVision** (real-time crime detection with YOLOv11) and **P.H.O.E.N.I.X.** (multi-agent AI desktop assistant with 4-level hierarchy).
+Currently Building **P.H.O.E.N.I.X.** (multi-agent AI desktop assistant with 4-level hierarchy using Agentic Orchestration).
 
 <div align="center">
 
@@ -96,7 +96,7 @@ Features Streamlit WebRTC dashboard, FastAPI alert gateway, and **Federated Lear
 
 Full-stack facial recognition attendance platform with real-time camera feeds, student portal, instructor dashboard, and analytics. **WebSockets** for live tracking, JWT auth with role-based access.
 
-Deployed frontend on **Vercel**, backend with **FastAPI + SQLAlchemy**.
+Backend with **FastAPI + SQLAlchemy**.
 
 `React 19` `FastAPI` `Python` `SQLite` `Vite`
 
@@ -127,7 +127,6 @@ Features Stripe billing and voice prompts in multiple languages.
 
 Responsive portfolio built with **React**, **TypeScript**, and **Vite** — featuring GitHub API integration for live repo data, glassmorphism UI, and light/dark theme.
 
-Deployed on **Vercel** with custom domain.
 
 `React` `TypeScript` `Vite` `CSS3`
 
