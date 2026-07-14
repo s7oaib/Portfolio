@@ -77,26 +77,30 @@ Currently building **SafeVision** (real-time crime detection with YOLOv11) and *
 <tr>
 <td width="50%">
 
-### 🛡️ SafeVision  
-**AI-Powered Real-Time Crime Detection**
+### 🛡️ SafeVision
+**AI-Powered Crime & Weapon Detection**
 
-Built a real-time crime detection system with fine-tuned **YOLOv11**, classifying violence and weapons from CCTV feeds at **30 FPS** across three threat severity levels.  
+Real-time threat detection system using fine-tuned **YOLOv11** — monitors CCTV feeds, detects weapons and violence, and dispatches **Telegram alerts** with annotated snapshots. Dual-model pipeline (COCO + custom) running at **30 FPS**.
 
-Integrated **Federated Learning** with Differential Privacy (Flower, Opacus) for distributed model training.  
+Features Streamlit WebRTC dashboard, FastAPI alert gateway, and **Federated Learning** with Differential Privacy.
 
 `Python` `YOLOv11` `OpenCV` `FastAPI` `Federated Learning`
+
+[![View Project](https://img.shields.io/badge/🔗_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s7oaib/SafeVision)
 
 </td>
 <td width="50%">
 
-### 🤖 P.H.O.E.N.I.X.  
-**Multi-Agent AI Desktop Assistant**
+### 📸 InFrame
+**AI Classroom Attendance System**
 
-Architecting a voice-activated AI assistant with a **4-level multi-agent hierarchy** (PHOENIX orchestrator → specialist agents → dynamic sub-agents).  
+Full-stack facial recognition attendance platform with real-time camera feeds, student portal, instructor dashboard, and analytics. **WebSockets** for live tracking, JWT auth with role-based access.
 
-Designing competitive planning via **Mixture-of-Experts** routing, Docker-sandboxed execution, and **ChromaDB**-backed long-term memory.  
+Deployed frontend on **Vercel**, backend with **FastAPI + SQLAlchemy**.
 
-`Python` `LangGraph` `FastAPI` `ChromaDB` `Docker`
+`React 19` `FastAPI` `Python` `SQLite` `Vite`
+
+[![View Project](https://img.shields.io/badge/🔗_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s7oaib/inframe)
 
 </td>
 </tr>
@@ -104,28 +108,52 @@ Designing competitive planning via **Mixture-of-Experts** routing, Docker-sandbo
 <tr>
 <td width="50%">
 
-### 🌐 Portfolio  
-**Personal Portfolio Site**
+### 👁️ S.T.A.R.E. (Hollow)
+**Next-Gen Driver Safety & Fleet Analytics**
 
-Built with **React**, **TypeScript**, and **Vite** — a clean, responsive portfolio showcasing projects, skills, and experience.  
+Enterprise-grade driver monitoring platform using **TensorFlow.js + MediaPipe** for real-time drowsiness detection (468 face landmarks). Tri-tier alert system, **Leaflet geofencing**, compliance tracking, and offline resilience with **Supabase**.
 
-Features GitHub API integration for live repository data, glassmorphism UI, and dark/light theme support.  
+Features Stripe billing and voice prompts in multiple languages.
 
-`React` `TypeScript` `Vite` `CSS3`
+`TypeScript` `Next.js 14` `TensorFlow.js` `Supabase` `Leaflet`
+
+[![View Project](https://img.shields.io/badge/🔗_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s7oaib/Hollow)
 
 </td>
 <td width="50%">
 
-### 📄 Resume  
+### 🌐 Portfolio
+**Personal Portfolio Site**
+
+Responsive portfolio built with **React**, **TypeScript**, and **Vite** — featuring GitHub API integration for live repo data, glassmorphism UI, and light/dark theme.
+
+Deployed on **Vercel** with custom domain.
+
+`React` `TypeScript` `Vite` `CSS3`
+
+[![View Project](https://img.shields.io/badge/🔗_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s7oaib/Portfolio)
+
+</td>
+</tr>
+
+<tr>
+<td width="100%" colspan="2">
+
+### 📄 Resume
 **Professional Resume & CV**
 
-AI & Machine Learning student with experience in computer vision, multi-agent AI, and full-stack systems.  
-
-Quantum Computing Research Intern at M R A Gurus. 1st Place at Nexora Hackathon. Google Cloud Generative AI Academy trained.  
+AI & Machine Learning student with experience in computer vision, multi-agent AI, and full-stack systems. Quantum Computing Research Intern at M R A Gurus. 1st Place at Nexora Hackathon. Google Cloud Generative AI Academy trained.
 
 `Python` `TensorFlow` `PyTorch` `OpenCV` `React`
 
-[![Download Resume](https://img.shields.io/badge/⬇️_Download_PDF-EA4335?style=for-the-badge&logo=google-drive&logoColor=white)](https://github.com/s7oaib/Portfolio/raw/main/Shoaib%20Jamadar%20Resume.pdf)
+<p align="center">
+  <a href="https://github.com/s7oaib/Portfolio/blob/main/Shoaib%20Jamadar%20Resume.pdf">
+    <img src="https://img.shields.io/badge/👀_View_Resume-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/s7oaib/Portfolio/raw/main/Shoaib%20Jamadar%20Resume.pdf">
+    <img src="https://img.shields.io/badge/⬇️_Download_PDF-EA4335?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
 
 </td>
 </tr>
