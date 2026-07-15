@@ -17,12 +17,10 @@ I'm an **AI & Machine Learning student** from **Bengaluru, India** with hands-on
 I enjoy building software that **detects, learns, and adapts** — from real-time crime detection running at 30 FPS to gesture-controlled drawing interfaces that require no physical input device.
 
 Currently building **P.H.O.E.N.I.X.** (multi-agent AI desktop assistant with 4-level hierarchy using Agentic Orchestration).
-<div align="center">
 
 [![Bengaluru, India](https://img.shields.io/badge/Bengaluru,_India-161B22?style=flat&labelColor=161B22&color=30363D)](https://github.com/s7oaib)
 [![Open to internships](https://img.shields.io/badge/Open_to_Internships-161B22?style=flat&labelColor=161B22&color=238636)](mailto:s7oaibjamadar@gmail.com)
 [![AIML Student](https://img.shields.io/badge/B.E._AIML-161B22?style=flat&labelColor=161B22&color=30363D)](https://github.com/s7oaib)
-<div>
 
 ## Pinned Repositories
 
