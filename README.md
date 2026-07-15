@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I'm Shoaib Jamadar 👋
 
 **AI & ML Student · Computer Vision · Multi-Agent Systems · Full-Stack**
@@ -6,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shoaib-jamadar77/)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:s7oaibjamadar@gmail.com)
 
+</div>
+
 ---
 
 I'm an **AI & Machine Learning student** from **Bengaluru, India** with hands-on experience building **computer vision**, **multi-agent AI**, and **full-stack systems**.
@@ -13,12 +17,12 @@ I'm an **AI & Machine Learning student** from **Bengaluru, India** with hands-on
 I enjoy building software that **detects, learns, and adapts** — from real-time crime detection running at 30 FPS to gesture-controlled drawing interfaces that require no physical input device.
 
 Currently building **P.H.O.E.N.I.X.** (multi-agent AI desktop assistant with 4-level hierarchy using Agentic Orchestration).
+<div align="center">
 
 [![Bengaluru, India](https://img.shields.io/badge/Bengaluru,_India-161B22?style=flat&labelColor=161B22&color=30363D)](https://github.com/s7oaib)
 [![Open to internships](https://img.shields.io/badge/Open_to_Internships-161B22?style=flat&labelColor=161B22&color=238636)](mailto:s7oaibjamadar@gmail.com)
 [![AIML Student](https://img.shields.io/badge/B.E._AIML-161B22?style=flat&labelColor=161B22&color=30363D)](https://github.com/s7oaib)
-
----
+<div>
 
 ## Pinned Repositories
 
@@ -108,4 +112,3 @@ Personal portfolio site built with React, TypeScript, and Vite — GitHub API in
 
 ![Profile Views](https://komarev.com/ghpvc/?username=s7oaib&color=blueviolet&style=flat-square&label=Profile+Views)
 
-Building in public · Always learning · Always shipping
