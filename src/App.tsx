@@ -3,7 +3,6 @@ import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 import { profileData } from './data/profileData';
 import { fetchGitHubRepos, type GitHubRepo } from './utils/github';
-import { Agentation } from "agentation";
 
 const fadeUp = {
   hidden: { opacity: 0, y: 30 },
